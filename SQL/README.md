@@ -102,14 +102,23 @@ Day	Focus	Practice Task
 35	Interview Round 2: Real-time ML query case study 🎯
 
 🗓️ WEEK 6: Scaling, Security & Stored Logic (Days 36–42)
+
 Day	Focus	Practice Task
+
 36	Views vs Materialized Views 📘	Abstraction layers
+
 37	SQL Indexing 🧪	Optimize slow query
+
 38	SQL Security: Permissions & Roles 📘	Access control design
+
 39	Stored Procedures & Functions 🧪	Modular queries
+
 40	Triggers & Transactions 📘	Automate and ensure consistency
+
 41	Mock SQL System Design 🎯	Schema + access control for ML pipeline
+
 42	GitHub Boost: SQL Portfolio Template + Upload 🔗	
+
 
 🗓️ WEEK 7–8: Project, Portfolio, Mastery (Days 43–50)
 Day	Focus	Deliverable
