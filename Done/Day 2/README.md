@@ -57,3 +57,11 @@ WHERE country = 'Canada' OR country = 'UK';
 SELECT * FROM customers
 WHERE NOT country = 'India';
 
+🧠 Key Takeaways
+Lasso helps in feature selection by eliminating noise.
+
+SHAP makes black-box models interpretable.
+
+Array logic is crucial for optimizing code in interviews.
+
+Logical operators are essential across Python, SQL, and filtering pipelines.
