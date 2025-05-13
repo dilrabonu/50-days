@@ -79,6 +79,25 @@ Trained and evaluated 3 ML models:
 
 ---
 
+---
+
+## 📌 Key Takeaways
+
+- 🔍 Feature selection is crucial for improving model generalization.
+- 💡 SHAP enhances interpretability — critical for healthcare AI applications.
+- 🧪 Random Forest yielded best performance (AUC = 0.90) with good precision-recall balance.
+- 💾 Model saved for deployment using `joblib`.
+
+---
+
+---
+
+## 📬 Connect
+
+Want to collaborate or give feedback?  
+📩 Drop me a message on https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
+
+
 
 
 https://www.kaggle.com/code/dilrabonu/heart-failure-prediction
