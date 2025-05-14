@@ -66,6 +66,41 @@ This project tackles the challenge of **detecting fraudulent transactions** in r
 
 ---
 
+---
+
+## 💡 Key Learnings
+
+- Importance of **choosing the right evaluation metric** for imbalanced datasets
+- Practical application of **Logistic Regression** and **class weighting**
+- End-to-end pipeline from cleaning → training → evaluation → saving model
+
+---
+
+## 📌 Next Steps
+
+- 🔁 Try Random Forest and XGBoost for model comparison
+- 🧠 Add SHAP or LIME for model explainability
+- 💡 Build a simple Streamlit dashboard for real-time prediction
+
+---
+
+## 🧰 Tech Stack
+
+- Python, Pandas, Scikit-Learn, Seaborn, Matplotlib, Joblib
+
+---
+
+## 🤝 Let’s Connect
+
+If you're working on projects involving **financial risk**, **AI in real-world applications**, or **ML in production**, I’d love to collaborate, share ideas, or get feedback.  
+📩 Reach out on https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
+
+---
+
+> "Good fraud detection is not just about accuracy. It’s about trust, interpretability, and actionability."
+
+
+
 
 
 https://www.kaggle.com/code/dilrabonu/credit-card-fraud-dataset
