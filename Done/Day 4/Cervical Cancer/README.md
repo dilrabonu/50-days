@@ -68,6 +68,40 @@ explainer = shap.Explainer(model, X_scaled)
 shap_values = explainer(X_scaled)
 shap.summary_plot(shap_values, features=X, feature_names=X.columns)
 
+📌 SHAP provides transparency into why the model makes each decision — essential for medical AI.
+
+💾 Saved Artifacts
+File	Purpose
+cervical_cancer_model.pkl	Trained model
+scaler.pkl	Preprocessing scaler
+feature_columns.json	Ordered feature names for prediction
+
+🔄 Inference Example:
+
+# Load model, scaler, and columns
+model = joblib.load("cervical_cancer_model.pkl")
+scaler = joblib.load("scaler.pkl")
+with open("feature_columns.json") as f:
+    columns = json.load(f)
+
+# Predict on new data
+new_data = pd.DataFrame([[25, 2, 0, 1, 0, ...]], columns=columns)
+scaled = scaler.transform(new_data)
+model.predict(scaled)
+📌 Key Takeaways
+StratifiedKFold is essential for robust validation on imbalanced datasets.
+
+F1 score and Recall are better suited for medical ML evaluation than accuracy alone.
+
+SHAP enables explainability, which is critical for adoption in clinical settings.
+
+👩‍💻 Author
+Dilrabo Khidirova
+Data Scientist | Machine Learning Engineer
+(https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/) | 
+
+
+
 https://www.kaggle.com/code/dilrabonu/cervical-cancer
 ![image](https://github.com/user-attachments/assets/4b5bf19c-2c6a-4477-b830-6db59dcfe6d5)
 
