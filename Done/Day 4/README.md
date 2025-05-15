@@ -77,3 +77,14 @@ The power of Stratified K-Fold in handling imbalanced classification
 Efficient string manipulation using Python
 
 Writing aggregate SQL queries to summarize real-world datasets
+
+🔗 Resources:
+📚 Kaggle: Cervical Cancer Dataset
+
+💻 Leetcode Profile
+
+🧠 HackerRank SQL Practice
+
+👩‍💻 Author
+Dilrabo Khidirova
+Data Scientist | Machine Learning Engineer | FAANG Preparation Journey 🚀
