@@ -71,3 +71,9 @@ SELECT
 FROM sales
 WHERE order_date BETWEEN '2025-01-01' AND '2025-03-31';
 
+🚀 What I Learned Today:
+The power of Stratified K-Fold in handling imbalanced classification
+
+Efficient string manipulation using Python
+
+Writing aggregate SQL queries to summarize real-world datasets
