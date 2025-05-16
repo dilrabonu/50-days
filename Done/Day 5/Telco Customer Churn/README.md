@@ -99,4 +99,4 @@ ML/AI Engineer | Data Scientist
 https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
 
 ---
-
+https://www.kaggle.com/code/dilrabonu/telco-customer-churn
