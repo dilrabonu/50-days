@@ -74,5 +74,5 @@ Today, I focused on mastering one of the most critical stages in the machine lea
 - [x] Completed SQL mock quiz and posted insights on LinkedIn
 
 ---
-
+SQL post link: https://www.linkedin.com/posts/dilrabo-khidirova-3144b8244_sql-datascience-machinelearning-activity-7330481128992145409-g39K?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyWIsABKpzpoTIhmDW903QiIanZYxEm1kE
 
