@@ -64,7 +64,15 @@ Today, I focused on mastering one of the most critical stages in the machine lea
 > I reflected on the role SQL plays in every real-world Data Science project.  
 > 📊 It’s the first tool I reach for before touching Python or ML libraries.
 
-🟢 You can read the full post [here](#) and engage with my journey!
+---
+
+## ✅ Progress Summary
+
+- [x] Mastered feature engineering techniques
+- [x] Built ML preprocessing pipeline for deep learning
+- [x] Reviewed all week’s DSA patterns
+- [x] Completed SQL mock quiz and posted insights on LinkedIn
 
 ---
+
 
