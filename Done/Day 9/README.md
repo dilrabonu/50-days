@@ -20,14 +20,8 @@
 ### 🔍 Real-World Use Case:
 In wildfire detection tasks, stacking CNN models (on satellite imagery) with tabular models (e.g., XGBoost on weather and location data) can significantly improve fire prediction accuracy.
 
-### 🧪 Dataset:
-**Kaggle:** [Wildfire Burned Area Dataset](https://www.kaggle.com/datasets/thedevastator/forest-fire-dataset)
 
-### 🛠️ Techniques Practiced:
-- Train base models: Random Forest, SVM, XGBoost
-- Apply `VotingClassifier` and `StackingClassifier` from `sklearn`
-- Evaluate with Accuracy, ROC-AUC, Confusion Matrix
-- Explain with SHAP for feature impact
+
 
 ---
 
