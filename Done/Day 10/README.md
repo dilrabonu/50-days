@@ -42,3 +42,30 @@ Sort Colors
 
 Merge Intervals
 
+
+📌 SQL – FULL OUTER JOIN & SELF JOIN
+✅ FULL OUTER JOIN
+Returns all matched and unmatched rows from both tables.
+
+sql
+Copy
+Edit
+SELECT a.id, a.name, b.salary
+FROM employees_a a
+FULL OUTER JOIN employees_b b ON a.id = b.id;
+✅ SELF JOIN
+Used to create employee–manager relationships from the same table.
+
+sql
+Copy
+Edit
+SELECT e.name AS employee, m.name AS manager
+FROM employees e
+LEFT JOIN employees m ON e.manager_id = m.id;
+🔗 HackerRank Practice:
+
+Employees earning more than their managers
+
+The PADS (JOIN practice)
+
+
