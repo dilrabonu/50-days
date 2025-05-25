@@ -1,5 +1,7 @@
 Day 10 – AutoML, Sorting Algorithms, SQL Joins
+
 📌 ML – AutoML Frameworks (H2O, AutoSklearn)
+
 Automated Machine Learning (AutoML) simplifies the process of training and optimizing models.
 
 Key Tools:
@@ -10,9 +12,6 @@ AutoSklearn: Builds pipelines using scikit-learn and Bayesian optimization.
 
 Use Case: Predict customer churn with zero manual model tuning.
 
-python
-Copy
-Edit
 import h2o
 from h2o.automl import H2OAutoML
 
