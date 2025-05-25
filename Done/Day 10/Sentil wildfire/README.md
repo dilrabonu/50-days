@@ -1,7 +1,8 @@
 https://www.kaggle.com/code/dilrabonu/sentinel-wildfire-dataset
 # 🔥 Wildfire Detection with Sentinel-2 Satellite Imagery using Deep Learning & Grad-CAM
 
-![banner](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sentinel-2B_with_open_solar_panel.jpg/800px-Sentinel-2B_with_open_solar_panel.jpg)
+![image](https://github.com/user-attachments/assets/cbb5cbaa-4008-42f3-9e69-e38215b73c1f)
+
 
 ## 📌 Project Overview
 
