@@ -47,3 +47,19 @@ def findPeak(nums):
             left = mid + 1
     return left
 
+2️⃣ First/Last Position in Sorted Array
+Locate the first or last occurrence of a target in a sorted list.
+
+
+def findFirst(nums, target):
+    left, right, result = 0, len(nums) - 1, -1
+    while left <= right:
+        mid = (left + right) // 2
+        if nums[mid] == target:
+            result = mid
+            right = mid - 1  # search left
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+    return result
