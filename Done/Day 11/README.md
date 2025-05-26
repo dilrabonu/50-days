@@ -63,3 +63,54 @@ def findFirst(nums, target):
         else:
             right = mid - 1
     return result
+
+🧾 SQL: Subqueries Inside WHERE
+📌 Use Case: Filtering with a Subquery
+Example 1: Employees earning above the company average
+
+
+SELECT name
+FROM employees
+WHERE salary > (
+  SELECT AVG(salary)
+  FROM employees
+);
+Example 2: Customers with orders above average in their country
+
+
+SELECT customer_id
+FROM orders
+WHERE total > (
+  SELECT AVG(total)
+  FROM orders o2
+  WHERE o2.country = orders.country
+);
+Why Use Subqueries?
+
+Enables dynamic filtering
+
+Useful for rankings, comparisons, and aggregations
+
+Applied in business reporting and fraud detection
+
+
+✅ LeetCode DSA Problems
+Find Peak Element
+
+Find First and Last Position
+
+✅ HackerRank SQL Challenges
+Subquery: Higher Than Average
+
+Advanced Select
+
+✅ Summary
+Balanced models = low bias + low variance
+
+Use cross-validation for performance estimation
+
+Binary search variants = essential for sorted data operations
+
+Subqueries enhance SQL power by enabling dynamic filtering
+
+Continue building sharp data intuition and technical mastery daily. 🚀
