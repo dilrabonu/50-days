@@ -47,3 +47,40 @@ def search(nums, target):
             else:
                 right = mid - 1
     return -1
+
+
+🧠 Problems Practiced
+Leetcode #33 – Search in Rotated Sorted Array
+
+Leetcode #153 – Find Minimum in Rotated Sorted Array
+
+Leetcode #81 – Search in Rotated Sorted Array II
+
+🧮 SQL: Nested SELECT & Scalar Subqueries
+📘 Topics Covered
+Subqueries in WHERE, SELECT, and FROM clauses
+
+Scalar subqueries for filtering and deriving values
+
+💡 Example Use Case: Find Latest Order Per Customer
+
+SELECT o.*
+FROM orders o
+WHERE o.order_date = (
+    SELECT MAX(order_date)
+    FROM orders o2
+    WHERE o2.customer_id = o.customer_id
+);
+🔍 Platforms Practiced
+HackerRank: Top Earners
+
+HackerRank: Weather Station 18
+
+📚 Key Takeaways
+✅ GitHub structure impacts your career — clear, modular code and documentation matter.
+
+✅ Mastered binary search on rotated arrays — a classic FAANG logic pattern.
+
+✅ Practiced subqueries for real-world reporting tasks in SQL.
+
+
