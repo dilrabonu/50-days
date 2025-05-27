@@ -9,3 +9,4 @@ Today’s focus is on building a modular Machine Learning project with professio
 
 
 
+![image](https://github.com/user-attachments/assets/7b71b400-ea21-48a0-8999-75a986c5a236)
