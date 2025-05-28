@@ -46,3 +46,12 @@ def backtrack(index, path):
             backtrack(next_index, path)
             path.pop()
 
+
+🧮 SQL – Set Operations: UNION, INTERSECT, EXCEPT
+Today we practiced SQL set operators to analyze customer overlaps across different platforms.
+
+Operator	Description
+UNION	Combines and removes duplicates
+UNION ALL	Combines and keeps duplicates
+INTERSECT	Returns only rows that exist in both sets
+EXCEPT	Returns rows from first set not in second
