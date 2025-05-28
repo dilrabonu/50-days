@@ -47,6 +47,9 @@ def backtrack(index, path):
             path.pop()
 
 
+
+---
+
 🧮 SQL – Set Operations: UNION, INTERSECT, EXCEPT
 Today we practiced SQL set operators to analyze customer overlaps across different platforms.
 
@@ -55,3 +58,18 @@ UNION	Combines and removes duplicates
 UNION ALL	Combines and keeps duplicates
 INTERSECT	Returns only rows that exist in both sets
 EXCEPT	Returns rows from first set not in second
+
+-- Customers on both Platform A and B
+SELECT customer_id FROM platform_a
+INTERSECT
+SELECT customer_id FROM platform_b;
+
+-- Customers on A only
+SELECT customer_id FROM platform_a
+EXCEPT
+SELECT customer_id FROM platform_b;
+
+-- All unique customers
+SELECT customer_id FROM platform_a
+UNION
+SELECT customer_id FROM platform_b;
