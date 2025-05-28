@@ -46,36 +46,7 @@ def backtrack(index, path):
             path.pop()
 
 
-## Summary
-✅ Designed a CV-based ML system for real-time inference
 
-✅ Implemented classic backtracking problems (N-Queens, Subsets)
-
-✅ Mastered SQL set theory for multi-platform data insights
-
-📌 All concepts were practiced with real-world relevance and interview-readiness in mind.
-
-💡 Next Steps:
-Apply backtracking to problems like Word Break, Sudoku Solver
-
-Build and deploy an inference API with your trained image model
-
-Use SQL set operators in real datasets like Kaggle’s eCommerce or Customer Analysis data
-
-🌟 Let’s Connect
-Built with ❤️ during my 50-day FAANG marathon.
-Follow my journey and support:
-
-LinkedIn
-
-Kaggle
-
-GitHub
-
-
-
-
----
 
 🧮 SQL – Set Operations: UNION, INTERSECT, EXCEPT
 Today we practiced SQL set operators to analyze customer overlaps across different platforms.
@@ -100,3 +71,24 @@ SELECT customer_id FROM platform_b;
 SELECT customer_id FROM platform_a
 UNION
 SELECT customer_id FROM platform_b;
+
+## Summary
+✅ Designed a CV-based ML system for real-time inference
+
+✅ Implemented classic backtracking problems (N-Queens, Subsets)
+
+✅ Mastered SQL set theory for multi-platform data insights
+
+📌 All concepts were practiced with real-world relevance and interview-readiness in mind.
+
+💡 Next Steps:
+Apply backtracking to problems like Word Break, Sudoku Solver
+
+Build and deploy an inference API with your trained image model
+
+Use SQL set operators in real datasets like Kaggle’s eCommerce or Customer Analysis data
+
+🌟 Let’s Connect
+Built with ❤️ during my 50-day FAANG marathon.
+
+
