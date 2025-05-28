@@ -33,9 +33,20 @@ We explored **backtracking**, a powerful technique for solving constraint-based 
 #### 🔢 Problem 2: Subsets
 - Goal: Generate all possible subsets (power set) from a list of integers
 - Idea: Include/exclude element recursively to explore solution space
+- ✅ Backtracking Template:
+```python
+def backtrack(index, path):
+    if base_case:
+        result.append(path[:])
+        return
+    for choice in choices:
+        if is_valid(choice):
+            path.append(choice)
+            backtrack(next_index, path)
+            path.pop()
 
 
-✅ Summary
+## Summary
 ✅ Designed a CV-based ML system for real-time inference
 
 ✅ Implemented classic backtracking problems (N-Queens, Subsets)
