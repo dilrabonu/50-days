@@ -62,4 +62,12 @@ customers(customer_id, name)
 
 orders(order_id, customer_id, order_date)
 
-order_items(order_id, product_id, quantity, price)
+order_items(order_id, product_id, quantity, price)       
+SELECT c.name AS customer_name,
+       SUM(oi.quantity * oi.price) AS total_spent
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+JOIN order_items oi ON o.order_id = oi.order_id
+WHERE EXTRACT(YEAR FROM o.order_date) = 2024
+GROUP BY c.name
+ORDER BY total_spent DESC;
