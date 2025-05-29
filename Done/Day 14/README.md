@@ -46,3 +46,20 @@ Built a scalable pipeline that simulates real-world deployment, considering late
 arr = [(1, 3), (2, 1), (3, 5)]
 sorted_arr = sorted(arr, key=lambda x: x[1], reverse=True)
 
+### ✅ Insights
+Trade-offs between time and space complexity
+
+Stability in sorting algorithms
+
+Choosing the right algorithm based on data context
+
+🗄️ 3. SQL – Multi-table JOINs Challenge
+🎯 Problem Statement
+Write a query to list customer names and total amount spent in 2024 using JOINs on multiple tables.
+
+🧩 Tables Involved
+customers(customer_id, name)
+
+orders(order_id, customer_id, order_date)
+
+order_items(order_id, product_id, quantity, price)
