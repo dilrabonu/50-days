@@ -71,9 +71,7 @@ To analyze and model the estimated financial loss from wildfire incidents based 
 - External data integration: weather, satellite imagery, geolocation
 - Deployment via dashboard (e.g. Power BI or Streamlit)
 
----
 
-## 📂 Folder Structure
 
 
 https://www.kaggle.com/code/dilrabonu/california-wildire-dataset-2014-2025
