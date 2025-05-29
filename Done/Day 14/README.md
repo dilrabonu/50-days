@@ -45,8 +45,7 @@ Built a scalable pipeline that simulates real-world deployment, considering late
 ```python
 arr = [(1, 3), (2, 1), (3, 5)]
 sorted_arr = sorted(arr, key=lambda x: x[1], reverse=True)
-
-### ✅ Insights
+✅ Insights
 Trade-offs between time and space complexity
 
 Stability in sorting algorithms
@@ -62,7 +61,10 @@ customers(customer_id, name)
 
 orders(order_id, customer_id, order_date)
 
-order_items(order_id, product_id, quantity, price)       
+order_items(order_id, product_id, quantity, price)
+
+💡 SQL Query
+
 SELECT c.name AS customer_name,
        SUM(oi.quantity * oi.price) AS total_spent
 FROM customers c
@@ -71,3 +73,16 @@ JOIN order_items oi ON o.order_id = oi.order_id
 WHERE EXTRACT(YEAR FROM o.order_date) = 2024
 GROUP BY c.name
 ORDER BY total_spent DESC;
+✅ Outcome
+Practiced INNER JOINs, aggregations, and multi-table relational logic—essential for data science interviews.
+
+📈 Summary
+Day 14 was focused on building real-world ML systems, reinforcing sorting algorithm theory, and solving advanced SQL JOIN problems. These skills are crucial for acing technical interviews at FAANG companies.
+
+🔗 Connect With Me
+Follow my 50-day journey on:
+
+💼 LinkedIn https://www.linkedin.com/in/dilrabo-khidirova-3144b8244/
+
+
+💬 Telegram – Python & AI Tips t.me/DilraboAI
