@@ -57,3 +57,26 @@ SELECT * FROM (
 ) sub
 WHERE rnk <= 3
 
+🧩 SQL Practice:
+Top Competitors (HackerRank)
+
+Department Top Three Salaries (LeetCode)
+
+✅ Outcome:
+Mastered SQL window functions for grouped ranking — essential for business intelligence, analytics, and reporting roles.
+
+🛠 Tools & Tech Stack
+Python (Pandas, NumPy, Scikit-learn, UMAP)
+
+SQL (PostgreSQL / MySQL)
+
+LeetCode, HackerRank, Kaggle Notebooks
+
+Jupyter Notebook, Google Colab
+
+📌 Key Takeaways
+Dimensionality Reduction is crucial for visualizing high-dimensional ML datasets.
+
+Sliding Window problems benefit greatly from deque-based optimizations.
+
+SQL Window Functions (RANK, DENSE_RANK, ROW_NUMBER) are powerful tools for data segmentation and insights.
