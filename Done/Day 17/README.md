@@ -67,19 +67,4 @@ Analyzing customer spending behavior by dividing into quartiles and evaluating p
 - Monotonic Queues simplify sliding window max/min problems with elegant O(n) solutions.
 - NTILE and PERCENT_RANK are powerful for data analytics, segmentation, and business insights in SQL.
 
----
-
-## 📚 Folder Structure
-
-```bash
-├── anomaly_detection/
-│   ├── isolation_forest.ipynb
-│   ├── one_class_svm.ipynb
-│   └── dataset.csv (not uploaded, linked to Kaggle)
-├── dsa/
-│   └── daily_temperatures_monotonic_stack.py
-├── sql/
-│   ├── ntile_examples.sql
-│   └── percent_rank_examples.sql
-└── README.md
 
