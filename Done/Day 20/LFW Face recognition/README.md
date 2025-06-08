@@ -90,4 +90,4 @@ Clone this repo, open the notebook in https://www.kaggle.com/datasets/atulanandj
 4. Extend with embedding extraction & matching
 
 
-
+https://www.kaggle.com/code/dilrabonu/lfw-face-recognition
