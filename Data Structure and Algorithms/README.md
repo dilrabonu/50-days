@@ -65,84 +65,51 @@ Day	Topics	Practice
 
 20	Interview-style Heap + Stack 🧪	Hard Amazon/Google questions
 
-21	GitHub Push + Recap Day 🎯	
+21	 Arrays Basics (Traversal, Sum, Max)	Two Sum, Max Consecutive Ones
+2️2	Stack (LIFO, Push, Pop)	Valid Parentheses, Min Stack
+23️	Queue (FIFO, collections.deque)	Implement Queue using Stack
+24	HashMap / Dictionary	First Unique Character, Isomorphic Strings
+25	Sets & Duplicates	Contains Duplicate, Intersection of Arrays
+26️	Sliding Window (Intro)	Maximum Subarray (Kadane's), Min Subarray Length
+27	Recap + Practice Day	Re-attempt missed problems
 
+28	Prefix Sum + Difference Arrays	Range Sum Query, Pivot Index
+29	Two Pointers	Valid Palindrome, Reverse String
+30	Binary Search (Classic)	Binary Search, First Bad Version
+31	Binary Search (Variants)	Search Insert Position, Peak Index
+32	Linked List (Intro)	Reverse Linked List, Middle Node
+33	Linked List II (Cycle, Merge)	Linked List Cycle, Merge Two Sorted Lists
+34	Recap + Practice Day	Mixed revision quiz
 
-🗓️ WEEK 4: Linked Lists, Trees, and Recursion (Days 22–28)
+35	Sorting Algorithms	Bubble, Insertion, Merge Sort
+36	Recursion (Backtracking Intro)	Factorial, Fibonacci
+37	Backtracking	Subsets, Permutations
+38	Stack + Queue Challenges	Evaluate RPN, Daily Temperatures
+39	Heap + Priority Queue	Top K Elements, Kth Largest Element
+40	Hashing + Frequency Maps	Group Anagrams, Top K Frequent Words
+41	Recap + Mock Interview Questions	Mix of all
+42	Graph Basics (DFS, BFS Intro)	Clone Graph, BFS Traversal
+43	Trees (Intro + Traversals)	Inorder Traversal, Max Depth
+44	Binary Trees II (Balanced, Symmetric)	Symmetric Tree, Same Tree
+45	Trie + String Matching	Implement Trie, Word Search
+46	Greedy Algorithms	Jump Game, Gas Station
+47	Dynamic Programming I	Climbing Stairs, House Robber
+48	Dynamic Programming II	Longest Subsequence, Coin Change
+49	Final Review + Speed Practice	Timed practice (easy-med)
+50	FAANG-Style Mock Interview	2 problems + Explain Time/Space
+GitHub Push + Recap Day 🎯	
 
-Day	Topics	Practice
+Each Day Includes:
+✅ Concept explanation (like a teacher)
 
-22	Linked List Intro 📘	Reverse List, Cycle Detection
+✅ Python code from scratch
 
-23	Doubly + Merge Two Lists 🧪	Add Two Numbers
+✅ Diagram/intuition
 
-24	Tree Basics: DFS, BFS 📘	Inorder, Preorder, Level Order
+✅ "Why this solution?" for FAANG
 
-25	Binary Tree Depth + Diameter 🧪	Path Sum, Symmetric Tree
+✅ Practice + Daily recap quiz
 
-26	Binary Search Trees (BST) 🎯	Validate BST, Kth Smallest
-
-27	Tree Recursion + Backtracking 📘	All Paths, Construct Trees
-
-28	Mock Interview: Trees + Linked Lists 🎯
-
-
-🗓️ WEEK 5: Graphs, Grids, and Union-Find (Days 29–35)
-
-Day	Topics	Practice
-
-29	Graph Representations 📘	Adjacency List, Matrix
-
-30	DFS + BFS on Graphs 🧪	Clone Graph, Number of Islands
-
-31	Topological Sort 🎯	Course Schedule
-
-32	Dijkstra’s Algorithm 📘	Shortest Path in Graph
-
-33	Union Find (Disjoint Sets) 🧪	Redundant Connection
-
-34	Backtracking on Grids 📘	Word Search, Sudoku Solver
-
-35	GitHub Push + Visual Recap 🎯	LinkedIn: “Graph Mastery Recap”
-
-
-🗓️ WEEK 6: Dynamic Programming Mastery (Days 36–42)
-
-Day	Topics	Practice
-
-36	Intro to DP: Memoization 📘	Fibonacci, Climbing Stairs
-
-37	Tabulation + State Definition 🧪	House Robber
-
-38	2D DP Problems 📘	Unique Paths, Coin Change
-
-39	Subsequence DP 🎯	LCS, Longest Palindromic Substring
-
-40	Knapsack & Variants 🧪	0/1 Knapsack, Partition Equal Subset
-
-41	DP Optimization Tricks 📘	Space optimization, Bitmask DP
-
-42	Mock Interview: DP Challenge 🎯	
-
-🗓️ WEEK 7–8: FAANG Problems, System Design Prep & Capstone (Days 43–50)
-
-Day	Topics	Practice
-
-43	Bit Manipulation Basics 📘	Single Number, XOR Trick
-
-44	Tricky Math & Logic Puzzles 🧪	Pow(x, n), Excel Sheet Column Title
-
-45	Sliding Window Advanced 🎯	Minimum Window Substring
-
-46	Trie & Word Dictionary 📘	Implement Trie, Word Search II
-
-47	Real FAANG Mock: Google + Meta Question	
-
-48	Final Project: Code Portfolio & GitHub Repo Setup	
-
-49	Interview Practice Day (2 hours, timed)	
-
-50	LinkedIn + Resume Update + Final Review 🎉	
 
 🧩 Platforms to Use:
 
