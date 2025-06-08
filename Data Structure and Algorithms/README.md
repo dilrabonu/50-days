@@ -66,36 +66,63 @@ Day	Topics	Practice
 20	Interview-style Heap + Stack 🧪	Hard Amazon/Google questions
 
 21	 Arrays Basics (Traversal, Sum, Max)	Two Sum, Max Consecutive Ones
+
 2️2	Stack (LIFO, Push, Pop)	Valid Parentheses, Min Stack
+
 23️	Queue (FIFO, collections.deque)	Implement Queue using Stack
+
 24	HashMap / Dictionary	First Unique Character, Isomorphic Strings
+
 25	Sets & Duplicates	Contains Duplicate, Intersection of Arrays
+
 26️	Sliding Window (Intro)	Maximum Subarray (Kadane's), Min Subarray Length
+
 27	Recap + Practice Day	Re-attempt missed problems
 
 28	Prefix Sum + Difference Arrays	Range Sum Query, Pivot Index
+
 29	Two Pointers	Valid Palindrome, Reverse String
+
 30	Binary Search (Classic)	Binary Search, First Bad Version
+
 31	Binary Search (Variants)	Search Insert Position, Peak Index
+
 32	Linked List (Intro)	Reverse Linked List, Middle Node
+
 33	Linked List II (Cycle, Merge)	Linked List Cycle, Merge Two Sorted Lists
+
 34	Recap + Practice Day	Mixed revision quiz
 
 35	Sorting Algorithms	Bubble, Insertion, Merge Sort
+
 36	Recursion (Backtracking Intro)	Factorial, Fibonacci
+
 37	Backtracking	Subsets, Permutations
+
 38	Stack + Queue Challenges	Evaluate RPN, Daily Temperatures
+
 39	Heap + Priority Queue	Top K Elements, Kth Largest Element
+
 40	Hashing + Frequency Maps	Group Anagrams, Top K Frequent Words
+
 41	Recap + Mock Interview Questions	Mix of all
+
 42	Graph Basics (DFS, BFS Intro)	Clone Graph, BFS Traversal
+
 43	Trees (Intro + Traversals)	Inorder Traversal, Max Depth
+
 44	Binary Trees II (Balanced, Symmetric)	Symmetric Tree, Same Tree
+
 45	Trie + String Matching	Implement Trie, Word Search
+
 46	Greedy Algorithms	Jump Game, Gas Station
+
 47	Dynamic Programming I	Climbing Stairs, House Robber
+
 48	Dynamic Programming II	Longest Subsequence, Coin Change
+
 49	Final Review + Speed Practice	Timed practice (easy-med)
+
 50	FAANG-Style Mock Interview	2 problems + Explain Time/Space
 GitHub Push + Recap Day 🎯	
 
