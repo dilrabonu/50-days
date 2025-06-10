@@ -66,23 +66,7 @@ SELECT
     ELSE 'Inactive'
   END AS cleaned_status
 FROM users;
-🔗 Folder Structure
-pgsql
-Copy
-Edit
-📁 Day22/
-│
-├── 📂 ml_time_series/
-│   ├── lstm_stock_prediction.ipynb
-│   ├── gru_temperature_forecast.ipynb
-│
-├── 📂 dsa_stack/
-│   ├── valid_parentheses.py
-│   ├── min_stack.py
-│
-├── 📂 sql_data_cleaning/
-│   ├── cleaning_nulls.sql
-│   ├── case_statement_examples.sql
+
 ✅ What I Learned Today:
 Why LSTM and GRU are better for time series than vanilla RNN
 
