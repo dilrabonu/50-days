@@ -1,5 +1,7 @@
 Day 23 – Sentiment Analysis (TF-IDF + RNNs) | Queues (DSA) | SQL Date Functions
+
 Welcome to Day 23 of my 50-day FAANG preparation challenge!
+
 Today, I explored a complete mix of Machine Learning, Data Structures & Algorithms, and SQL, with a focus on real-world applications and FAANG-style problem-solving.
 
 🧠 Machine Learning: Sentiment Analysis (TF-IDF + RNNs)
@@ -76,20 +78,7 @@ ML	Sentiment Analysis	TF-IDF, RNN (PyTorch)
 DSA	Queue	Stack-to-Queue Conversion
 SQL	Date Analysis	DATE_PART, DATE_DIFF, FORMAT
 
-📂 Project Directory Structure
-pgsql
-Copy
-Edit
-Day23/
-├── ml_sentiment_analysis/
-│   ├── tfidf_logreg.py
-│   ├── rnn_model.py
-│   └── dataset.csv
-├── dsa_queue_implementation/
-│   ├── queue_using_stack.py
-│   └── deque_usage.py
-└── sql_date_functions/
-    └── date_functions.sql
+
 🔮 What’s Next?
 Tomorrow I’ll explore:
 
@@ -99,4 +88,3 @@ DSA: Trees – Traversals & Path Sum
 
 SQL: Window Functions (LAG, LEAD)
 
-Stay tuned! 🌟
