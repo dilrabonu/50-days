@@ -1,4 +1,5 @@
  Day 24 – Attention, Transformers, HashMaps, and SQL Regex | FAANG Prep Roadmap
+ 
 Welcome to Day 24 of my 50-Day FAANG Preparation Journey. Today’s focus includes foundational and advanced concepts across Machine Learning, Data Structures & Algorithms, and SQL, preparing me for real-world AI applications and FAANG-style interviews.
 
 📌 Topics Covered
