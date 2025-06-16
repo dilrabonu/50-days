@@ -1,8 +1,11 @@
 📚 Day 25 – CNN vs RNN | Sets & Duplicates | SQL Pivot & Unpivot
+
 Welcome to Day 25 of my #50DaysOfFAANGPreparation journey!
+
 Today’s topics focus on model selection, hash-based logic, and SQL data reshaping—critical skills for interviews and real-world ML/DS projects.
 
 🔍 Machine Learning: CNN vs RNN
+
 🧠 What’s the Difference?
 Feature	CNN (Convolutional Neural Network)	RNN (Recurrent Neural Network)
 Input Type	Spatial data (images)	Sequential data (text, time series)
@@ -11,9 +14,7 @@ Parallelism	High (process all pixels at once)	Low (process step by step)
 Use Case	Image classification, object detection	Text generation, stock prediction
 
 🖼 Diagram
-yaml
-Copy
-Edit
+
    CNN:
    Input → Conv → ReLU → Pool → FC → Softmax
 
