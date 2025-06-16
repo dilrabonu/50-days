@@ -54,9 +54,7 @@ Pivot: Converts long-form (tidy) data into wide-form tables for dashboards
 Unpivot: Converts wide-form into long format for ML modeling or tidy data
 
 🧱 Example – Pivot Sales Data
-sql
-Copy
-Edit
+
 SELECT *
 FROM (
   SELECT year, quarter, revenue FROM sales
@@ -74,13 +72,17 @@ FROM sales_wide
 UNPIVOT (
   rev FOR qtr IN (Q1, Q2, Q3, Q4)
 ) AS unp;
+
 🛠 Real-World Use Cases:
+
 Pivot: Dashboard views (e.g., revenue per month)
 
 Unpivot: ML pipelines and normalization tasks
 
 🚀 Summary
+
 Topic	Key Takeaway
+
 CNN vs RNN	Choose model based on data structure (spatial vs temporal)
 Set-Based DSA	Use sets for clean, fast deduplication and intersections
 SQL Pivoting	Shape data to match use case: wide for reports, long for models
