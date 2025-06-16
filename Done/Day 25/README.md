@@ -29,9 +29,6 @@ RNN: Sentiment analysis on tweets, anomaly detection in heart rate data
 ✅ Problem 1: Contains Duplicate
 Efficient check using a set:
 
-python
-Copy
-Edit
 def contains_duplicate(nums):
     seen = set()
     for n in nums:
@@ -40,9 +37,7 @@ def contains_duplicate(nums):
         seen.add(n)
     return False
 ✅ Problem 2: Intersection of Arrays
-python
-Copy
-Edit
+
 def intersection(a, b):
     return list(set(a) & set(b))
 Why Use Sets?
