@@ -51,10 +51,8 @@ SELECT a.name, b.discount
 FROM customers a
 JOIN promotions b
   ON a.signup_date BETWEEN b.start_date AND b.end_date;
-📁 Repository Structure
-pgsql
-Copy
-Edit
+
+
 
 
 Optimized DSA problems using smarter patterns like sliding window.
