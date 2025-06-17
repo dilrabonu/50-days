@@ -55,27 +55,7 @@ JOIN promotions b
 pgsql
 Copy
 Edit
-/day26/
-│
-├── notebooks/
-│   └── day26_experiments.ipynb
-│
-├── scripts/
-│   ├── data_loader.py
-│   ├── model.py
-│   ├── train.py
-│   └── main.py
-│
-├── sql/
-│   └── advanced_joins.sql
-│
-├── leetcode/
-│   └── sliding_window_problems.py
-│
-├── requirements.txt
-└── README.md
-🧠 Reflection
-Learned how to transform ML research into reusable engineering pipelines.
+
 
 Optimized DSA problems using smarter patterns like sliding window.
 
