@@ -7,6 +7,7 @@ Today’s topics focus on model selection, hash-based logic, and SQL data reshap
 🔍 Machine Learning: CNN vs RNN
 
 🧠 What’s the Difference?
+
 Feature	CNN (Convolutional Neural Network)	RNN (Recurrent Neural Network)
 Input Type	Spatial data (images)	Sequential data (text, time series)
 Operation	Convolution + pooling	Memory + recurrence
@@ -26,6 +27,7 @@ CNN: Satellite wildfire image classification, facial recognition
 RNN: Sentiment analysis on tweets, anomaly detection in heart rate data
 
 🧮 DSA: Sets & Duplicates
+
 ✅ Problem 1: Contains Duplicate
 Efficient check using a set:
 
@@ -36,6 +38,7 @@ def contains_duplicate(nums):
             return True
         seen.add(n)
     return False
+    
 ✅ Problem 2: Intersection of Arrays
 
 def intersection(a, b):
@@ -48,6 +51,7 @@ Simple way to remove duplicates
 Ideal for FAANG-style array filtering and deduplication tasks
 
 🧾 SQL: Pivoting & Unpivoting
+
 📊 Why It Matters:
 Pivot: Converts long-form (tidy) data into wide-form tables for dashboards
 
@@ -63,6 +67,7 @@ PIVOT (
   SUM(revenue)
   FOR quarter IN ([Q1], [Q2], [Q3], [Q4])
 ) AS pvt;
+
 🔁 Unpivot Example
 sql
 Copy
