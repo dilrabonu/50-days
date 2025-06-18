@@ -59,17 +59,13 @@ Customers
 Orders
 
 🧾 Anti Join (Users who NEVER ordered):
-sql
-Copy
-Edit
+
 SELECT * FROM Customers
 WHERE customer_id NOT IN (
   SELECT customer_id FROM Orders
 );
 ✔️ Semi Join (Users who DID order):
-sql
-Copy
-Edit
+
 SELECT * FROM Customers c
 WHERE EXISTS (
   SELECT 1 FROM Orders o WHERE o.customer_id = c.customer_id
