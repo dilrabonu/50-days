@@ -69,16 +69,6 @@ Today, I focused on mastering **mock interview storytelling**, **advanced array 
 - How to **optimize arrays for massive data updates**
 - How to **write production-level SQL queries** for business cases
 
----
-
-## 🧠 Next Steps
-
-Tomorrow, I’ll focus on:
-- 📚 ML: Autoencoders & Dimensionality Reduction
-- 🧩 DSA: Matrix Manipulation & 2D Prefix Sum
-- 🛠 SQL: Window Function Challenges – Percentiles & Quartiles
-
-Stay tuned! 💪
 
 
 
