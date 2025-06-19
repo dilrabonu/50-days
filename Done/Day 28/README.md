@@ -80,10 +80,5 @@ Tomorrow, I’ll focus on:
 
 Stay tuned! 💪
 
----
 
-🔗 **Let’s connect**  
-📌 [LinkedIn](https://www.linkedin.com/in/your-profile) | 📂 [Kaggle](https://www.kaggle.com/yourprofile) | 📬 Telegram: @yourchannel
-
----
 
