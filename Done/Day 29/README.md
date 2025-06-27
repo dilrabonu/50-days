@@ -1,4 +1,4 @@
-# 🧠 Day 39 – FAANG Preparation Roadmap
+# 🧠 Day 29 – FAANG Preparation Roadmap
 
 Welcome to **Day 39** of my 50-day FAANG Data Scientist & ML Engineer preparation journey!  
 Today’s focus was on **MLOps**, **Two Pointers in DSA**, and **Feature Engineering in SQL**.
@@ -52,9 +52,6 @@ CASE WHEN for bucketing users
 
 Window functions for rolling sums
 
-sql
-Copy
-Edit
 SELECT 
   customer_id,
   COUNT(order_id) AS order_count,
