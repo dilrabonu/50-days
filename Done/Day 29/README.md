@@ -40,3 +40,25 @@ def isPalindrome(s):
         left += 1; right -= 1
     return True
 
+🗃️ SQL: Feature Engineering
+SQL is a powerful tool for aggregating raw data into meaningful features for machine learning models.
+
+📌 Techniques Practiced:
+COUNT, AVG, MAX aggregations
+
+Time-based metrics (recency, frequency)
+
+CASE WHEN for bucketing users
+
+Window functions for rolling sums
+
+sql
+Copy
+Edit
+SELECT 
+  customer_id,
+  COUNT(order_id) AS order_count,
+  AVG(order_value) AS avg_order_value,
+  MAX(order_value) AS max_order
+FROM orders
+GROUP BY customer_id;
