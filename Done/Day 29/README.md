@@ -62,3 +62,11 @@ SELECT
   MAX(order_value) AS max_order
 FROM orders
 GROUP BY customer_id;
+
+🚀 Key Learnings
+MLOps is critical for scalable, production-level ML systems.
+
+Two pointers optimize string and array problems with O(1) space.
+
+SQL aggregations power data pipelines and feature stores.
+
