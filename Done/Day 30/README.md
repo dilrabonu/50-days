@@ -23,13 +23,15 @@ Expose a trained ML model via an API and containerize the app for consistent dep
 ### 📁 Project Structure
 📁 ml-deployment/
 ├── app.py
+
 ├── model.pkl
+
 ├── requirements.txt
+
 └── Dockerfile
 
-bash
-Copy
-Edit
+
+
 
 ### 🔗 Sample API Request
 ```bash
@@ -56,9 +58,8 @@ Classic Binary Search
 First Bad Version (Leetcode 278)
 
 📘 Binary Search Template
-python
-Copy
-Edit
+
+
 def binary_search(arr, target):
     left, right = 0, len(arr) - 1
     while left <= right:
@@ -80,9 +81,8 @@ Applying binary logic to find first occurrence (e.g., bugs, limits)
 Analyze rolling sales totals per product across months.
 
 🧾 SQL Query:
-sql
-Copy
-Edit
+
+
 SELECT 
   product_id,
   sale_month,
