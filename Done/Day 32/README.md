@@ -34,9 +34,7 @@ Content-Type: application/json
   "YearsAtCompany": 5
 }
 ✅ Response:
-json
-Copy
-Edit
+
 {
   "Burnout Risk": "High"
 }
@@ -62,19 +60,6 @@ Tools: PostgreSQL / BigQuery
 
 ✅ Real-world use cases: SaaS platforms, user growth tracking, churn analysis
 
-📁 Folder Structure
-bash
-Copy
-Edit
-📦 Day32_ML_API_LinkedList_SQL
-├── burnout_model.pkl
-├── preprocessor.pkl
-├── main.py                # FastAPI App
-├── test_requests.json     # Postman Sample Inputs
-├── burnout_notebook.ipynb # ML Model Training
-├── dsa_linked_list.py     # Linked List Problems
-├── sql_cohort_analysis.sql
-└── README.md
 📌 Technologies Used
 Python 3.10+
 
