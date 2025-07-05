@@ -47,9 +47,6 @@ Efficiently merges two sorted lists into a new sorted list
 
 Common in feed ranking and log merging systems
 
-python
-Copy
-Edit
 def mergeTwoLists(l1, l2):
     dummy = tail = ListNode()
     while l1 and l2:
@@ -72,9 +69,7 @@ user_id	group	clicked	session_time
 2	variant	0	180
 
 📊 SQL Query
-sql
-Copy
-Edit
+
 SELECT
   group,
   COUNT(*) AS total_users,
