@@ -71,3 +71,39 @@ High-risk users (those with >3 returns)
 These queries are written in standard ANSI SQL and included in ml_sql_case_study.sql.
 
 
+ Project Structure
+pgsql
+Copy
+Edit
+Day35-ML-Cloud-SQL/
+│
+├── model/
+│   └── salary_model.pkl
+├── app/
+│   ├── main.py               # FastAPI ML serving app
+│   ├── Dockerfile            # Container configuration
+│   └── requirements.txt      # Python dependencies
+│
+├── sorting_algorithms.py     # Bubble, Insertion, Merge Sort
+├── ml_sql_case_study.sql     # SQL queries for real-time case study
+├── README.md
+└── .gitignore
+🚀 How to Run
+Deploy FastAPI to GCP Cloud Run
+Build Docker image:
+
+
+docker build -t salary-api .
+Push to Google Container Registry:
+
+gcloud builds submit --tag gcr.io/YOUR_PROJECT_ID/salary-api
+Deploy:
+
+gcloud run deploy salary-api \
+    --image gcr.io/YOUR_PROJECT_ID/salary-api \
+    --platform managed \
+    --region us-central1 \
+    --allow-unauthenticated
+
+
+
