@@ -1,0 +1,11 @@
+streamlit
+transformers
+torch
+nltk
+pandas
+matplotlib
+seaborn
+joblib
+scikit-learn
+numpy
+sentence-transformers
