@@ -1,4 +1,4 @@
-# 📅 Day 37: ML | DSA | SQL - FAANG Prep Journey
+# 📅 Day 39: ML | DSA | SQL - FAANG Prep Journey
 
 Welcome to **Day 37** of my 50-day FAANG-focused Machine Learning & Data Science preparation series. This day was dedicated to mastering **Deep Learning for Time Series (LSTM)**, **Heap-based Top-K Problems**, and **Modular SQL Design using Stored Procedures & Functions**.
 
