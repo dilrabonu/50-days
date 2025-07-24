@@ -52,3 +52,22 @@ Build a clean and professional **SQL portfolio** and publish on GitHub to showca
 - ERD diagrams and database schema visuals
 - Clean README documentation for each project
 
+| Domain | Key Takeaway |
+|--------|--------------|
+| Kaggle | Don’t overfit to public leaderboard – use cross-validation wisely. |
+| DSA    | Cloning graphs is a classic interview problem – mastering traversal helps in multiple domains. |
+| SQL    | GitHub portfolio = recruiter magnet. Presentation matters as much as logic. |
+
+---
+
+## 📌 Next Steps
+
+- Fine-tune Kaggle submissions using feature engineering.
+- Solve more graph-related LeetCode problems (e.g., Topological Sort, Shortest Path).
+- Add more domain-diverse SQL projects (HR, Banking, Retail).
+
+---
+
+🧠 *Learning is a journey. Each line of code and query brings me one step closer to mastery.*
+
+
