@@ -1,4 +1,4 @@
-# 🚀 Day 53 – Final Capstone Kickoff: Wildfire AI + Fire Risk SQL + Tree DSA
+# 🚀 Day 43 – Final Capstone Kickoff: Wildfire AI + Fire Risk SQL + Tree DSA
 
 Welcome to Day 53 of the ML | DSA | SQL Career Track!  
 This marks the **first day of Capstone Week**, where we begin building **end-to-end AI and SQL solutions** that demonstrate our professional skills, domain knowledge, and real-world impact.
