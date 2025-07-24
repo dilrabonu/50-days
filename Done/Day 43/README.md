@@ -61,3 +61,19 @@ This marks the **first day of Capstone Week**, where we begin building **end-to-
 
 ---
 
+## ✅ Summary
+
+| Track | Theme | Milestone |
+|-------|-------|-----------|
+| ML | Wildfire AI Agent | Project kickoff + dataset search |
+| DSA | Binary Tree Traversals | Inorder, Max Depth, Recursion |
+| SQL | Fire Risk Analysis (Canada) | Schema + Query plan |
+
+---
+
+## 🙌 Let's Build Something Impactful
+
+Capstone Week is your chance to build real, impressive, and professional AI systems that **demonstrate your ability to solve real-world problems**. Today was the foundation — next steps: data ingestion, modeling, and deployment.
+
+Stay focused. Think big. Build smart.
+
