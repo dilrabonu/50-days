@@ -1,5 +1,7 @@
 Day 44 – ML Capstone Progress: Data Cleaning + EDA | Binary Trees II | SQL Schema Design
+
 🔥 Thesis-Aligned Capstone: Wildfire Detection Using Visual Imagery
+
 Title: AI-Powered Wildfire Detection and Monitoring Using Visual Imagery with Explainable Deep Learning Models
 
 📅 Day 44 Objectives
@@ -52,13 +54,7 @@ Filter fires by date and location
 🛠️ Tools: PostgreSQL | SQLite (test environment)
 📁 Schema compatible with future Streamlit Agent backend
 
-🧠 What's Next?
-Day	Focus
-Day 45	Image Augmentation + CNN Input Pipeline
-Day 46	CNN Model Training (Keras/PyTorch)
-Day 47	Grad-CAM Visual Explanations
-Day 48	SHAP Interpretability Module
-Day 49–50	Streamlit Agent Interface + Final Integration
+
 
 🌐 Project Purpose
 This work is part of a thesis-driven ML capstone focused on building a robust, explainable AI system for wildfire detection using satellite imagery. It integrates deep learning, XAI (Explainable AI), and a research-grade deployment interface for real-world impac
