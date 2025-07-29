@@ -59,3 +59,6 @@ Day 46	CNN Model Training (Keras/PyTorch)
 Day 47	Grad-CAM Visual Explanations
 Day 48	SHAP Interpretability Module
 Day 49–50	Streamlit Agent Interface + Final Integration
+
+🌐 Project Purpose
+This work is part of a thesis-driven ML capstone focused on building a robust, explainable AI system for wildfire detection using satellite imagery. It integrates deep learning, XAI (Explainable AI), and a research-grade deployment interface for real-world impac
